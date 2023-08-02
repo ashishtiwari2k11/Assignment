@@ -1,0 +1,104 @@
+    1  cd /
+    2  git clone https://github.com/Grinnell-CSC195/hw1.
+    3  mkdir ashish
+    4  git clone https://github.com/ashishtiwari2k11/Fetch_Repo.git
+    5  ls
+    6  cd ashish/
+    7  ls
+    8  git clone https://github.com/Grinnell-CSC195/hw1.git
+    9  ls
+   10  cd hw1/
+   11  ls
+   12  yum install vim -y
+   13  [root@ashish ashish]# git remote add origin ^C
+   14  [root@ashish ashish]# git clone https://github.com/Grinnell-CSC195/hw1.git
+   15  Cloning into 'hw1'...
+   16  remote: Enumerating objects: 422, done.
+   17  remote: Counting objects: 100% (134/134), done.
+   18  remote: Compressing objects: 100% (11/11), done.
+   19  remote: Total 422 (delta 128), reused 123 (delta 123), pack-reused 288
+   20  Receiving objects: 100% (422/422), 42.93 KiB | 164.00 KiB/s, done.
+   21  Resolving deltas: 100% (225/225), done.
+   22  [root@ashish ashish]# ls
+   23  vim participants
+   24  vim participants.md 
+   25  cd  participants
+   26  lx
+   27  ls
+   28  vim ashish.txt
+   29  cd ..
+   30  git add participants/ashish.txt
+   31  git commit -m "Added information about Ashish Tiwari."
+   32  git commit -m "Added information about Ashish Tiwari"
+   33  git init 
+   34  git add .
+   35  git commit -m "Helo this is Ashish Tiwari commit"
+   36  git config user.email "2k11.ashish@gmail.com"
+   37  git config user.name "Ashish Tiwari"
+   38  git commit -m "This is Ashish Tiwari commit" .
+   39  git status
+   40  git add .
+   41  git commit -m "This is Ashish Tiwari commit" .
+   42  pwd
+   43  ls
+   44  git config --global user.name "Ashish Tiwari"
+   45  git config --global user.email "2k11.ashish@gmail.com"
+   46  git commit -m "This is Ashish Tiwari commit" .
+   47  git commit -m "This is Ashish Tiwari commit" participants/ashish.txt 
+   48  git commit -m "This is Ashish Tiwari commit2" participants.md 
+   49  git log
+   50  git status
+   51  vim participants.md 
+   52  git remote add origin https://github.com/ashishtiwari2k11/Assignment.git
+   53  ls
+   54  pwd
+   55  git remote remote origin
+   56  git remote remove origin
+   57  git remote add origin https://github.com/ashishtiwari2k11/Assignment.git
+   58  git push origin master
+   59  cd code/
+   60  ls
+   61  vim participants.c 
+   62  make
+   63  yum instakk make -y
+   64  yum install make -y
+   65  make
+   66  make ./participants
+   67  make ./participants.c 
+   68  vim participants.c 
+   69  make
+   70  make ./participants.
+   71  make ./participants
+   72  ls
+   73  vim participants
+   74  vim participants.c 
+   75  yum install tv -y
+   76  vim participants.c 
+   77  make ./participants
+   78  vim participants.c 
+   79  make ./participants
+   80  yum install gcc-y
+   81  yum install gcc -y
+   82  make ./participants
+   83  make
+   84  rpm -q gcc
+   85  make
+   86  ./participants
+   87  git add .
+   88  cd ..
+   89  git status
+   90  git add .
+   91  git commit "this is my Ashish Participants commit" code/participants
+   92  git commit "this is my Ashish Participants commit" .
+   93  git commit "this is Ashish Tiwari Participants commit" code/participants
+   94  git commit -m "this is Ashish Tiwari Participants commit" code/participants
+   95  git commit -m "this is Ashish Tiwari2 Participants commit" code/participants.c 
+   96  git push origin master
+   97  top
+   98  vim participants.c
+   99  cd code/
+  100  vim participants
+  101  vim participants.c 
+  102  ./participants
+  103  history 
+  104  history >>hist.txt
